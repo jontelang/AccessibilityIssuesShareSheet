@@ -2,9 +2,9 @@
 
 This project demonstrates how the accessibility API lets us access all buttons in an action sheet, but does not show the labels for all.
 
-iOS 11.2 - Shows all buttons in accessibility output, no labels for non-visible buttons
-iOS 10.3 - Shows all buttons in accessibility output, no labels for non-visible buttons
-iOS 9.3 - Shows only the visible buttons
+iOS 11.2 - Shows all buttons in accessibility output, no labels for non-visible buttons  
+iOS 10.3 - Shows all buttons in accessibility output, no labels for non-visible buttons  
+iOS 9.3 - Shows only the visible buttons  
 
 Example from iOS 11.2 output.
 
